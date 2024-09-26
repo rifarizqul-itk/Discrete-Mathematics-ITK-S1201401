@@ -33,13 +33,13 @@ populer digunakan?
 
 ### Answer
 Berikut adalah sisa 11 operator logika selain yang telah disebutkan di soal:
-- $ \operatorname{A} $
-- $ \operatorname{B} $
-- negasi A ($ \operatorname{NOT \; A} $)
-- negasi B ($ \operatorname{NOT \; B} $)
-- negasi AND ($ \operatorname{NAND} $)
-- negasi OR ($ \operatorname{NOR} $)
-- negasi eksklusif OR ($ \operatorname{XNOR} $)
+- $\operatorname{A}$
+- $\operatorname{B}$
+- negasi A ($\operatorname{NOT \; A}$)
+- negasi B ($\operatorname{NOT \; B}$)
+- negasi AND ($\operatorname{NAND}$)
+- negasi OR ($\operatorname{NOR}$)
+- negasi eksklusif OR ($\operatorname{XNOR}$)
 - converse ($B \rightarrow A$)
 - contrapositive ($\neg B \rightarrow \neg A$)
 - inverse ($\neg A \rightarrow \neg B$)
