@@ -110,23 +110,4 @@ yang sesuai dengan isi kotak, dan dua sisanya adalah palsu.
 Kotak manakah yang harus dipilih oleh pemuda tersebut?
 
 ### Answer
-- Jika kotak 1 yang benar:
-    - Ukiran pada Kotak 1 (benar) menyatakan bahwa Kotak 1 kosong.
-    - Ukiran pada Kotak 2 (palsu) menyatakan bahwa Kotak 2 kosong, yang mungkin benar, tetapi tidak mungkin keduanya kosong jika Kotak 1 benar.
-    - Ukiran pada Kotak 3 (palsu) menyatakan bahwa Koin emas berada di Kotak 1, yang bertentangan dengan asumsi bahwa Kotak 1 berisi koin emas.
-
-    **Ini kontradiksi.**
-- Jika kotak 2 yang benar:
-    - Ukiran pada Kotak 1 (palsu) menyatakan bahwa Kotak 1 kosong, padahal bisa jadi Kotak 1 berisi koin emas.
-    - Ukiran pada Kotak 2 (benar) menyatakan bahwa Kotak 2 kosong.
-    - Ukiran pada Kotak 3 (palsu) menyatakan bahwa Koin emas berada di Kotak 1, yang tidak bisa terjadi karena Kotak 2 kosong.
-
-    **Ini kontradiksi.**
-- Jika kotak 3 yang benar:
-    - Ukiran pada Kotak 1 (palsu) menyatakan bahwa Kotak 1 kosong, yang bisa saja benar atau salah.
-    - Ukiran pada Kotak 2 (palsu) menyatakan bahwa Kotak 2 kosong, yang bisa juga benar atau salah.
-    - Ukiran pada Kotak 3 (benar) menyatakan bahwa Koin emas berada di Kotak 1. Ini bisa jadi tidak benar, tetapi jika Kotak 3 adalah yang benar, maka ada kemungkinan Koin emas berada di Kotak 2.
-
-    **Tidak ada kontradiksi.**
-
-Dapat disimpulkan, satu-satunya situasi yang tidak mengandung kontradiksi adalah jika ukiran pada Kotak 3 yang benar. Jadi, pemuda tersebut seharusnya **memilih Kotak 3 untuk mendapatkan koin emas**.
+***Belum selesai dikerjakan***
